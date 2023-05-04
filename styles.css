@@ -1,0 +1,56 @@
+body {
+    background-color: #22C99F;
+    text-align: center;
+    color: white;
+    padding: 100px;
+    border: 25px solid blue;
+
+  
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+button {
+    border: 5px solid purple;
+    background-color: yellow;
+   
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+img{
+    border: 5px solid yellow;
+    width:200px;
+    height:200px;
+}
+
+
+.pop-icon {
+    width: 200px;
+    border:none;
+}
+
+.comedy {
+    display: none;
+}
+.terror {
+    display: none;
+}
+
+.actions {
+    display: none;
+}
